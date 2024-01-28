@@ -1,0 +1,18 @@
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\obj\Debug\net8.0\Language Vocabularies Builder.csproj.AssemblyReference.cache
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\obj\Debug\net8.0\Language Vocabularies Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\obj\Debug\net8.0\Language Vocabularies Builder.AssemblyInfoInputs.cache
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\obj\Debug\net8.0\Language Vocabularies Builder.AssemblyInfo.cs
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\obj\Debug\net8.0\Language Vocabularies Builder.csproj.CoreCompileInputs.cache
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\bin\Debug\net8.0\Language Vocabularies Builder.exe
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\bin\Debug\net8.0\Language Vocabularies Builder.deps.json
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\bin\Debug\net8.0\Language Vocabularies Builder.runtimeconfig.json
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\bin\Debug\net8.0\Language Vocabularies Builder.dll
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\bin\Debug\net8.0\Language Vocabularies Builder.pdb
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\obj\Debug\net8.0\Language Vocabularies Builder.csproj.CopyComplete
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\obj\Debug\net8.0\Language Vocabularies Builder.dll
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\obj\Debug\net8.0\refint\Language Vocabularies Builder.dll
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\obj\Debug\net8.0\Language Vocabularies Builder.pdb
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\obj\Debug\net8.0\Language Vocabularies Builder.genruntimeconfig.cache
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\obj\Debug\net8.0\ref\Language Vocabularies Builder.dll
+D:\projects\Language Vocabularies Builder\Language Vocabularies Builder\bin\Debug\net8.0\Spectre.Console.dll

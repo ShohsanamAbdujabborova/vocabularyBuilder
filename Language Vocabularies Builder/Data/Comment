@@ -1,0 +1,41 @@
+//Comment for myself//
+
+Vocabulary Builder
+
+Model:
+User
+Id
+UserName:
+Vocabulary 
+Id
+language
+translateLanguage
+Word
+Definition
+Synonyms
+Example
+
+2 ta model bir biriga bog'lanadi ya'ni User Modelga AddVocabulary to user method bo'ladi bunda Vocabulary da yodlangan so'zlar userga ko'chadi
+
+User:
+  {
+    "Id": 1,
+    "Name": "Shohsanam",
+    "SavedVocabularies": [
+      {
+
+
+SavedVocabulary bu List qachonki Vocabulary da so'zlar yozilsa biz uni AddVocabulary orqali Userga qo'shamiz.
+Vocabulary Model
+[
+  {
+    "Id": 1,
+    "UserId": 0,
+    "Language": "English",
+    "TranslateLanguage": "Uzbek",
+    "Word": "pen",
+    "Definition": "pen",
+    "Synonyms": "pen",
+    "Example": "Pen is mine"
+  }
+]
